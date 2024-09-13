@@ -1,0 +1,25 @@
+[
+	[
+			{
+					"id" : 8,
+					"title" : "Graphic knit mini dress",
+					"filter" : "Costume",
+					"price" : 3451.60,
+					"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_1.jpg",
+					"size" : ["S","L","XL"],
+					"color" : ["white","black","red","blue"],
+					"count" : 1
+			},
+			{
+					"id" : 9,
+					"title" : "Retro Martingal Dress",
+					"filter" : "Costume",
+					"price" : 2356.10,
+					"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_2.jpg",
+					"size" : ["S","L","XL"],
+					"color" : ["white","black","red","blue"],
+					"count" : 1
+			}
+
+	]
+]
