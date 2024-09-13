@@ -1,39 +1,24 @@
 [
 	[
-		{
-				"id" : 1,
-				"title" : "배열1 테스트1",
-				"float" : 3451.60,
-				"color" : ["white","black","red","blue"],
-				"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_1.jpg",
-				"count" : 1
-		},
-		{
-				"id" : 2,
-				"title" : "배열1 테스트2",
-				"float" : 2356.10,
-				"color" : ["white","black","red","blue"],
-				"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_2.jpg",
-				"count" : 1
-		}
-	],
-	[
-		{
-			"id" : 3,
-			"title" : "배열2 테스트3",
-			"float" : 3451.60,
-			"color" : ["white","black","red","blue"],
-			"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_1.jpg",
-			"count" : 1
-	},
-	{
-			"id" : 4,
-			"title" : "배열2 테스트4",
-			"float" : 2356.10,
-			"color" : ["white","black","red","blue"],
-			"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_2.jpg",
-			"count" : 1
-	}
+			{
+					"id" : 8,
+					"title" : "Graphic knit mini dress",
+					"filter" : "Costume",
+					"price" : 3451.60,
+					"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_1.jpg",
+					"size" : ["S","L","XL"],
+					"color" : ["white","black","red","blue"],
+					"count" : 1
+			},
+			{
+					"id" : 9,
+					"title" : "Retro Martingal Dress",
+					"filter" : "Costume",
+					"price" : 2356.10,
+					"url" : "https://UnknownTie.github.io/TestSite1_db/img/section3_2.jpg",
+					"size" : ["S","L","XL"],
+					"color" : ["white","black","red","blue"],
+					"count" : 1
+			}
 
-	]
 ]
