@@ -1,31 +1,31 @@
 [
   {
     "idx": 1,
-    "Type": "folder",
+    "type": "folder",
     "title": "myBlog",
 		"content":"",
     "children": [
       {
         "idx": 1,
-        "Type": "folder",
+        "type": "folder",
         "title": "components",
 				"content":"",
         "children": [
           {
             "idx": 1,
-            "Type": "folder",
+            "type": "folder",
             "title": "blog",
 						"content":"",
             "children": [
               {
                 "idx": 1,
-                "Type": "folder",
+                "type": "folder",
                 "title": "mkList",
 								"content":"",
                 "children": [
                   {
                     "idx": 1,
-                    "Type": "file",
+                    "type": "file",
                     "title": "mkTestJs.md",
 										"content":"",
                     "children": []
@@ -34,13 +34,13 @@
               },
 							{
                 "idx": 2,
-                "Type": "folder",
+                "type": "folder",
                 "title": "mkList",
 								"content":"",
                 "children": [
                   {
                     "idx": 1,
-                    "Type": "file",
+                    "type": "file",
 										"content":"",
                     "title": "mkTestJsA.md",
                     "children": []
@@ -55,31 +55,31 @@
   },
   {
     "idx": 2,
-    "Type": "folder",
+    "type": "folder",
     "title": "myBlog2",
 		"content":"",
     "children": [
       {
         "idx": 1,
-        "Type": "folder",
+        "type": "folder",
         "title": "components",
 				"content":"",
         "children": [
           {
             "idx": 1,
-            "Type": "folder",
+            "type": "folder",
             "title": "blog",
 						"content":"",
             "children": [
               {
                 "idx": 1,
-                "Type": "folder",
+                "type": "folder",
                 "title": "mkList",
 								"content":"",
                 "children": [
                   {
                     "idx": 1,
-                    "Type": "file",
+                    "type": "file",
                     "title": "mkTestJs.md",
 										"content":"",
                     "children": []
@@ -88,13 +88,13 @@
               },
 							{
                 "idx": 2,
-                "Type": "folder",
+                "type": "folder",
                 "title": "mkList",
 								"content":"",
                 "children": [
                   {
                     "idx": 1,
-                    "Type": "file",
+                    "type": "file",
 										"content":"",
                     "title": "mkTestJsA.md",
                     "children": []
