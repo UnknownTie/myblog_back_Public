@@ -2,25 +2,25 @@
   {
     "idx": 1,
     "Type": "folder",
-    "title": "/myBlog",
+    "title": "myBlog",
 		"content":"",
     "children": [
       {
         "idx": 1,
         "Type": "folder",
-        "title": "/components",
+        "title": "components",
 				"content":"",
         "children": [
           {
             "idx": 1,
             "Type": "folder",
-            "title": "/blog",
+            "title": "blog",
 						"content":"",
             "children": [
               {
                 "idx": 1,
                 "Type": "folder",
-                "title": "/mkList",
+                "title": "mkList",
 								"content":"",
                 "children": [
                   {
@@ -35,7 +35,7 @@
 							{
                 "idx": 2,
                 "Type": "folder",
-                "title": "/mkList",
+                "title": "mkList",
 								"content":"",
                 "children": [
                   {
